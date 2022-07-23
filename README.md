@@ -9,6 +9,6 @@ This is a simple ecommerce application built with DJANGO, HTML-CSS-BOOTSTRAP
 * Download this repository
 In your root directory. Run:
 * `pip install -r requirements.txt` to install all dependencies
-* `python manage.py runserver` to start the backend local server.
+* `python manage.py runserver` to start the local server.
 
 Check [http://localhost:8000](http://localhost:8000) to view application on your browser
